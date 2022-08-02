@@ -1,0 +1,9 @@
+#logo,
+article figure {
+    width: 100px;
+}
+
+#logo img,
+article figure img {
+    max-width: 100%;
+}
